@@ -10,7 +10,7 @@ For this Challenge, the program "joint_savings.sol" will be written to set up an
 
     D. After the program was successfully compiled and the Environment set as described in C. above, the program was then Deployed.  
 
-![Deployed](Initially deployed image.png)
+![Deployed](https://github.com/Cryptopher2022/Challenge_20/blob/main/Execution_Results/Successful_Deploy.png)
 
 ## Tasks to be completed
 
@@ -45,22 +45,22 @@ Once the steps above were accomplished, the following tasks were taken and scree
 All of these tasks are found below and in the Execution_Results folder in the Challenge 20 repository.
 
 ## 1. Set Accounts
-![Set_Accounts](Set_accounts.png)
+![Set_Accounts](https://github.com/Cryptopher2022/Challenge_20/blob/main/Execution_Results/Set_accounts.png)
 
 ## 2. Transaction 1 - Send 1 Ether (ETH) as wei
-![Add_1ETH_as_wei](Add_1ETH_as_wei.png)
+![Add_1ETH_as_wei](https://github.com/Cryptopher2022/Challenge_20/blob/main/Execution_Results/Add_1ETH_as_wei.png)
 
 ## 3. Transaction 2 - Send 10 ETH as wei
-![Add_10ETH_as_wei](Add_10ETH_as_wei.png)
+![Add_10ETH_as_wei](https://github.com/Cryptopher2022/Challenge_20/blob/main/Execution_Results/Add_10ETH_as_wei.png)
 
 ## 4. Transaction 3 - Send 5 ETH
-![Send_5ETH](Send_5ETH.png)
+![Send_5ETH](https://github.com/Cryptopher2022/Challenge_20/blob/main/Execution_Results/Send_5ETH.png)
 
 ## 5. Withdraw 5 ETH to Account One (utilizing the ContractBalance function, LastToWithdraw function and LastWithdrawAmount function to verify the successful transaction )
-![Withdraw_5ETH_to_Account_One](Withdraw_5ETH_to_Account1.png)
+![Withdraw_5ETH_to_Account_One](https://github.com/Cryptopher2022/Challenge_20/blob/main/Execution_Results/Withdraw_5ETH_to_account1.png)
 
 ## 6. Withdraw 10 ETH to Account Two (utilizing the ContractBalance function, LastToWithdraw function and LastWithdrawAmount function to verify the successful transaction )
-![Withdraw_5ETH_to_Account_Two](Withdraw_5ETH_to_Account2.png)
+![Withdraw_10ETH_to_Account_Two](https://github.com/Cryptopher2022/Challenge_20/blob/main/Execution_Results/Withdraw_10ETH_to_account2.png)
 
 
     
